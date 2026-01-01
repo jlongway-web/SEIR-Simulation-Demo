@@ -12,6 +12,3 @@ Visualization: Generates time-series plots using matplotlib to show the "flatten
 
 
 <img src="images/SEIR-Graph.png">
-
-![](images/SEIR-Graph.png)
-
